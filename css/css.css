@@ -29,9 +29,6 @@ body {
   display: flex;
   place-content: space-between;
 }
-.navbar .mobile_open {
-  cursor: pointer;
-}
 
 .entry {
   cursor: pointer;
